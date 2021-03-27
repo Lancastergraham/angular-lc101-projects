@@ -1,0 +1,14 @@
+.chores {
+    color :purple;
+    font-size: large;
+}
+
+li {
+    color :green;
+    font-style: italic;
+}
+
+h3 {
+    text-decoration-line: underline;
+    text-decoration-color: darkblue;
+}
