@@ -16,3 +16,8 @@ img {
     display: block;
     margin: auto;
 }
+
+p{
+    color: black;
+    font-size:larger
+}
